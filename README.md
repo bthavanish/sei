@@ -2,7 +2,7 @@
   
 #  ![logo](https://github.com/user-attachments/assets/6eb4b149-a5e6-4880-9ac6-f4e46df6ee98)
 #### a management panel that'll grow as i learn to code  
-#### built with curiosity, caffeine, and a bit of chaos
+
 </div>
 
 ##  status
