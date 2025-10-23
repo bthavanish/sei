@@ -1,0 +1,29 @@
+{
+  "name": "sei",
+  "version": "0.0.1",
+  "description": "A management panel for tasks, projects, and users",
+  "keywords": [
+    "management",
+    "dashboard",
+    "tasks",
+    "projects",
+    "learning",
+    "full-stack"
+  ],
+  "homepage": "https://github.com/bthavanish/sei",
+  "bugs": {
+    "url": "https://github.com/bthavanish/sei/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "bthavanish",
+    "url": "https://github.com/bthavanish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bthavanish/sei.git"
+  },
+  "scripts": {
+    "start": "node src/sei.js"
+  }
+}
